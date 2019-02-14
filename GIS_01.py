@@ -1,5 +1,4 @@
 #Jose Hernandez
-#GEOG408D
 
 # import arcpy site-package
 import arcpy
