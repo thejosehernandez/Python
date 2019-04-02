@@ -8,3 +8,5 @@ GIS_03: Python script that uses cursor to iterate through data and does editing 
 GIS_E3: Python script using cursor to iterate through data and does editing based on condition.
 
 asmt2_hernandez.py and functs_hernandez.py: manages a user list that can be modified and saved to a text file
+
+mysql_test.py: script connecting to mysql to query data
